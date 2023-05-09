@@ -1,0 +1,4 @@
+django-admin startproject ecomerce .
+py manage.py startapp app
+py manage.py runserver
+
